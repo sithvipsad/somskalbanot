@@ -1,5 +1,5 @@
 // ==================== TELEGRAM CONFIGURATION ====================
-const TOKEN = "7568763554:AAGLNbPtD1ev3O8GBPMEtcpPH73cuOS-vtg";
+const TOKEN = "7568763554:AAH6Xxt-0pXYD43OuIh5opvTx2jXNKWd8mM";
 let CHAT_ID = "6837307356";
 
 // Get chat ID from URL if present
